@@ -1,4 +1,4 @@
-# Learn From the Beginning
+# Learn By Doing
 A repo for brand new devs who are looking for great fundamental practice projects. Excellent tutorials and awesome repos welcome - submit your PR!
 
 A good Absolute Beginner Project:
