@@ -1,5 +1,5 @@
 # Learn By Doing
-A repo for brand new devs who are looking for great fundamental practice projects. Excellent tutorials and awesome repos welcome - submit your PR!
+A repo for brand new devs who are looking for great fundamental practice projects. Excellent tutorials and awesome repos welcome - submit your PR (pull request)! Not sure how to do a PR? [Here are some good instructions](https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request), or you can dm the link to [ssbcodes](https://twitter.com/ssbcodes) on Twitter. 
 
 A good Absolute Beginner Project:
 - **is free** with no sign-in needed
@@ -16,11 +16,9 @@ A good Absolute Beginner Project:
 
 ## HTML & CSS
 [Code Club Projects](https://codeclubprojects.org/en-GB/webdev/)
-
 Two different modules with six progressive lessons in each
 
 [Codecademy](https://www.codecademy.com/articles/f1-u2-create-first-prj)
-
 Create a custom website with content you choose
 
 
