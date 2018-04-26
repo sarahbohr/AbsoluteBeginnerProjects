@@ -13,10 +13,7 @@ An Absolute Beginner Project:
 ## JavaScript
 
 
-## HTML
-
-
-## CSS
+## HTML & CSS
 
 
 ## Multi-language
