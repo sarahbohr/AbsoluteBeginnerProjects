@@ -34,8 +34,11 @@ Create a custom website with content you choose
 Coder is a free, open source project that turns a Raspberry Pi into a simple platform that educators and parents can use to teach the basics of building for the web. New coders can craft small projects in HTML, CSS, and Javascript, right from the web browser. 
 
 
-
 ## Tools
-**Visual Studio Code**
-Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.\
+**Git**\
+[tryGit](https://try.github.io)\
+An interactive tutorial for learning how to use Git on the command line in 15 minutes
+
+**Visual Studio Code**\
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux\
 [Mac](https://code.visualstudio.com/docs/setup/mac) | [PC](https://code.visualstudio.com/docs/setup/windows) | [Linux](https://code.visualstudio.com/docs/setup/linux)
