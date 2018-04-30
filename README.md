@@ -1,5 +1,5 @@
 # Learn By Doing
-A repo for brand new devs who are looking for great fundamental practice projects. Excellent tutorials and awesome repos welcome - submit your PR (pull request)! Not sure how to do a PR? [Here are some good instructions](https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request), or you can dm the link to [ssbcodes](https://twitter.com/ssbcodes) on Twitter. 
+A repo for brand new devs who are looking for great fundamental practice projects. Excellent project tutorials and awesome repos welcome - submit your PR (pull request)! Not sure how to do a PR? [Here are some good instructions](https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request), or you can dm the link to [ssbcodes](https://twitter.com/ssbcodes) on Twitter. 
 
 If you've never contributed to an open source project before, this is a great one to start with! 
 
@@ -13,10 +13,10 @@ A good Absolute Beginner Project:
 - takes no more than a few of hours to complete
 - is NOT a "Hello World!" tutorial. Real-world projects only.
 
-* = requires sign-in
+✦ = requires sign-in
 
 ## JavaScript
-[JavaScript for Absolute Beginners - Udemy*](https://www.udemy.com/javascript-for-absolute-beginners-learn-the-basics/)\
+[JavaScript for Absolute Beginners - Udemy✦](https://www.udemy.com/javascript-for-absolute-beginners-learn-the-basics/)\
 Program a simple birth year finder app
 
 
