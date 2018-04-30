@@ -13,8 +13,10 @@ A good Absolute Beginner Project:
 - takes no more than a few of hours to complete
 - is NOT a "Hello World!" tutorial. Real-world projects only.
 
+* = requires sign-in
+
 ## JavaScript
-[JavaScript for Absolute Beginners - Udemy](https://www.udemy.com/javascript-for-absolute-beginners-learn-the-basics/)\
+[JavaScript for Absolute Beginners - Udemy*](https://www.udemy.com/javascript-for-absolute-beginners-learn-the-basics/)\
 Program a simple birth year finder app
 
 
