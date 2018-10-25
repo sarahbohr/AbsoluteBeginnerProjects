@@ -34,7 +34,16 @@ Create a custom website with content you choose
 ##  Multi-language
 [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/)\
 **Requires a Raspberry Pi and a 4GB SD card**\
-Coder is a free, open source project that turns a Raspberry Pi into a simple platform that educators and parents can use to teach the basics of building for the web. New coders can craft small projects in HTML, CSS, and Javascript, right from the web browser. 
+Coder is a free, open source project that turns a Raspberry Pi into a simple platform that educators and parents can use to teach the basics of building for the web. New coders can craft small projects in HTML, CSS, and Javascript, right from the web browser.  
+
+[Introduction to Computer Science CS50 - Harvard edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)\
+**What You Will Learn**  
+* A broad and robust understanding of computer science and programming
+* How to think algorithmically and solve programming problems efficiently
+* Concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development
+* Familiarity in a number of languages, including C, Python, SQL, and JavaScript plus CSS and HTML
+* How to engage with a vibrant community of like-minded learners from all levels of experience
+* How to develop and present a final programming project to your peers
 
 
 ## Tools
