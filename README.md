@@ -1,15 +1,15 @@
 # Learn By Doing
 ![alt text](https://raw.githubusercontent.com/sarahbohr/AbsoluteBeginnerProjects/master/seedlings-sm.jpg "seedlings")
-###### [Photo by Markus Spiske on Unsplash](https://unsplash.com/photos/vrbZVyX2k4I?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+###### [Photo by Markus Spiske on Unsplash](https://unsplash.com/photos/vrbZVyX2k4I?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-A repo for brand new devs who are looking for great fundamental practice projects. Excellent project tutorials and awesome repos welcome - submit your PR (pull request)! Not sure how to do a PR? [Here are some good instructions](https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request), or you can dm the link to [ssbcodes](https://twitter.com/ssbcodes) on Twitter. 
+A repo for brand new devs who are looking for great fundamental practice projects. Excellent project tutorials and awesome repos welcome - submit your PR (pull request)! Not sure how to do a PR? [Here are some good instructions](https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request), or you can dm the link to [ssbcodes](https://twitter.com/ssbcodes) on Twitter.
 
-If you've never contributed to an open source project before, this is a great one to start with! 
+If you've never contributed to an open source project before, this is a great one to start with!
 
 A good Absolute Beginner Project:
 - **is free**
 - requires NO previous coding knowledge in the language it teaches
-- explains everything in detail. It assumes nothing
+- explaining everything in detail. It assumes nothing
 - is well-written and easy to follow
 - has up to date code samples that are easy to copy and paste
 - is a complete project from zero to finish...no "Part three coming soon!"
@@ -34,7 +34,7 @@ Create a custom website with content you choose
 ##  Multi-language
 [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/)\
 **Requires a Raspberry Pi and a 4GB SD card**\
-Coder is a free, open source project that turns a Raspberry Pi into a simple platform that educators and parents can use to teach the basics of building for the web. New coders can craft small projects in HTML, CSS, and Javascript, right from the web browser. 
+Coder is a free, open source project that turns a Raspberry Pi into a simple platform that educators and parents can use to teach the basics of building for the web. New coders can craft small projects in HTML, CSS, and Javascript, right from the web browser.
 
 
 ## Tools
