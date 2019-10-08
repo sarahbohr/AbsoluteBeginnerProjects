@@ -22,6 +22,8 @@ A good Absolute Beginner Project:
 [JavaScript for Absolute Beginners - Udemy ✦](https://www.udemy.com/javascript-for-absolute-beginners-learn-the-basics/)\
 Program a simple birth year finder app
 
+[Introduction to JavaScript by freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)\
+An excellent introduction to Javascript along with simple projects, like a Shopping List and a Golf game.
 
 ## HTML & CSS
 [Code Club Projects](https://codeclubprojects.org/en-GB/webdev/)\
