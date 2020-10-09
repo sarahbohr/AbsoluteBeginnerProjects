@@ -22,6 +22,8 @@ A good Absolute Beginner Project:
 [JavaScript for Absolute Beginners - Udemy ✦](https://www.udemy.com/javascript-for-absolute-beginners-learn-the-basics/)\
 Program a simple birth year finder app
 
+[ Full stack open 2020 ](https://fullstackopen.com/en)\
+Deep Dive Into Modern Web Development: Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript and get introduced to modern JavaScript-based web development
 
 ## HTML & CSS
 [Code Club Projects](https://codeclubprojects.org/en-GB/webdev/)\
